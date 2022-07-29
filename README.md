@@ -79,7 +79,347 @@ In order to open this prototype design is required to have an UI/UX Design Tool 
 
 There you can see some useful additional screenshots of how the project looks like and how can be used.
 
-* Screenshots will be uploaded soon!
+* Welcome
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/01-Welcome.png">
+
+* Connect to Account
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/02-Connect%20to%20Account.png">
+
+* Sign up
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/03.1-Sign%20up.png">
+
+* Confirm & Verify Account
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/03.2-Confirm%20%26%20Verify%20Account.png">
+
+* Connected to Sign up
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/03.3-Connected%20to%20Sign%20up.png">
+
+* Sign in
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/03.4-Sign%20in.png">
+
+* Connected to Sign in
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/03.5-Connected%20to%20Sign%20in.png">
+
+* Guest
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/03.6-Guest.png">
+
+* Connected to Guest
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/03.7-Connected%20to%20Guest.png">
+
+* Admin
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/03.8-Admin.png">
+
+* Connected to Admin
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/03.9-Connected%20to%20Admin.png">
+
+* Home - General User
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/04-Home%20-%20General%20User.png">
+
+* Online Chat
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/05-Online%20Chat.png">
+
+* Search Desserts
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/06-Search%20Desserts.png">
+
+* Dessert Categories
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/07.1-Dessert%20Categories.png">
+
+* Dessert List - Cakes
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/07.2-Dessert%20List%20-%20Cakes.png">
+
+* Dessert Details
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/07.3-Dessert%20Details.png">
+
+* Dessert List - Small Cakes
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/07.4-Dessert%20List%20-%20Small%20Cakes.png">
+
+* Dessert Details
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/07.5-Dessert%20Details.png">
+
+* Dessert List - Frozen Desserts
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/07.6-Dessert%20List%20-%20Frozen%20Desserts.png">
+
+* Dessert Details
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/07.7-Dessert%20Details.png">
+
+* Dessert List - Fruit Cakes
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/07.8-Dessert%20List%20-%20Fruit%20Cakes.png">
+
+* Dessert Details
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/07.9-Dessert%20Details.png">
+
+* Dessert List - Dessert Ball
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/07.10-Dessert%20List%20-%20Dessert%20Ball.png">
+
+* Dessert Details
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/07.11-Dessert%20Details.png">
+
+* Dessert List - Muffin
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/07.12-Dessert%20List%20-%20Muffin.png">
+
+* Dessert Details
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/07.13-Dessert%20Details.png">
+
+* Dessert List - Cookies
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/07.14-Dessert%20List%20-%20Cookies.png">
+
+* Dessert Details
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/07.15-Dessert%20Details.png">
+
+* Dessert List - Puddings
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/07.16-Dessert%20List%20-%20Puddings.png">
+
+* Dessert Details
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/07.17-Dessert%20Details.png">
+
+* Dessert List - Ice Cream
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/07.18-Dessert%20List%20-%20Ice%20Cream.png">
+
+* Dessert Details
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/07.19-Dessert%20Details.png">
+
+* Orders for Product
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/07.20-Orders%20for%20Product.png">
+
+* Payment Method for Product
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/07.21-Payment%20Method%20for%20Product.png">
+
+* Payment Method for Product
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/07.22-Payment%20Method%20for%20Product.png">
+
+* Purchase of Dessert
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/07.23-Purchase%20of%20Dessert.png">
+
+* Offerings
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/08.1-Offerings.png">
+
+* Dessert Details
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/08.2-Dessert%20Details.png">
+
+* About Us
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/09-About%20Us.png">
+
+* Contact Us
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/10.1-Contact%20Us.png">
+
+* Contact Info
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/10.2-Contact%20Info.png">
+
+* Feedback
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/11.1-Feedback.png">
+
+* Feedback Sent
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/11.2-Feedback%20Sent.png">
+
+* Account
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/12.1-Account.png">
+
+* Changes of data fields
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/12.2-Changes%20of%20data%20fields.png">
+
+* Payment Method Delivery Address
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/12.3-Payment%20Method%20Delivery%20Address.png">
+
+* Payment Method Credit Card
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/12.4-Payment%20Method%20Credit%20Card.png">
+
+* Orders
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/13.1-Orders.png">
+
+* Purchase of Dessert
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/13.2-Purchase%20of%20Dessert.png">
+
+* Settings
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/14.1-Settings.png">
+
+* Change Language
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/14.2-Change%20Language.png">
+
+* Notifications
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/14.3-Notifications.png">
+
+* About App
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/14.4-About%20App.png">
+
+* Help & Support
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/14.5-Help%20%26%20Support.png">
+
+* Invite friends
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/14.6-Invite%20friends.png">
+
+* Sign out
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/14.7-Sign%20out.png">
+
+* Home - Admin User
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/15-Home%20-%20Admin%20User.png">
+
+* Online Chat
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/16-Online%20Chat.png">
+
+* Search Desserts
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/17-Search%20Desserts.png">
+
+* Manage Categories
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/18.1-Manage%20Categories.png">
+
+* Dessert List - Cakes
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/18.2-Dessert%20List%20-%20Cakes.png">
+
+* Dessert List - Small Cakes
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/18.3-Dessert%20List%20-%20Small%20Cakes.png">
+
+* Dessert List - Frozen Desserts
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/18.4-Dessert%20List%20-%20Frozen%20Desserts.png">
+
+* Dessert List - Fruit Cakes
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/18.5-Dessert%20List%20-%20Fruit%20Cakes.png">
+
+* Dessert List - Dessert Ball
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/18.6-Dessert%20List%20-%20Dessert%20Ball.png">
+
+* Dessert List - Muffin
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/18.7-Dessert%20List%20-%20Muffin.png">
+
+* Dessert List - Cookies
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/18.8-Dessert%20List%20-%20Cookies.png">
+
+* Dessert List - Puddings
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/18.9-Dessert%20List%20-%20Puddings.png">
+
+* Dessert List - Ice Cream
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/18.10-Dessert%20List%20-%20Ice%20Cream.png">
+
+* Add Dessert
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/18.11-Add%20Dessert.png">
+
+* Dessert Added
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/18.12-Dessert%20Added.png">
+
+* View Dessert
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/18.13-View%20Dessert.png">
+
+* Edit Dessert
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/18.14-Edit%20Dessert.png">
+
+* Save Changes
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/18.15-Save%20Changes.png">
+
+* Status Dessert
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/18.16-Status%20Dessert.png">
+
+* Manage Offerings
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/19.1-Manage%20Offerings.png">
+
+* Add Offer
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/19.2-Add%20Offer.png">
+
+* Offer Added
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/19.3-Offer%20Added.png">
+
+* View Offer
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/19.4-View%20Offer.png">
+
+* Edit Offer
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/19.5-Edit%20Offer.png">
+
+* Save Changes
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/19.6-Save%20Changes.png">
+
+* Manage Advertising
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/20.1-Manage%20Advertising.png">
+
+* Add Ads
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/20.2-Add%20Ads.png">
+
+* Add Date
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/20.3-Add%20Date.png">
+
+* Add Image
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/20.4-Add%20Image.png">
+
+* Add Video
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/20.5-Add%20Video.png">
+
+* View Ads
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/20.6-View%20Ads.png">
+
+* Manage Contacts
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/21.1-Manage%20Contacts.png">
+
+* Handle contact number
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/21.2-Handle%20contact%20number.png">
+
+* Handle contact message
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/21.3-Handle%20contact%20message.png">
+
+* Handle contact email
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/21.4-Handle%20contact%20email.png">
+
+* Respond contact
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/21.5-Respond%20contact.png">
+
+* Message Sent
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/21.6-Message%20Sent.png">
+
+* Manage Feedbacks
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/22.1-Manage%20Feedbacks.png">
+
+* Handle feedback
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/22.2-Handle%20feedback.png">
+
+* Respond feedback
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/22.3-Respond%20feedback.png">
+
+* Feedback Sent
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/22.4-Feedback%20Sent.png">
+
+* Account
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/23.1-Account.png">
+
+* Changes of data fields
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/23.2-Changes%20of%20data%20fields.png">
+
+* Manage Orders
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/24.1-Manage%20Orders.png">
+
+* Order Status
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/24.2-Order%20Status.png">
+
+* Settings
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/25.1-Settings.png">
+
+* Change Language
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/25.2-Change%20Language.png">
+
+* Notifications
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/25.3-Notifications.png">
+
+* About App
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/25.4-About%20App.png">
+
+* Help & Support
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/25.5-Help%20%26%20Support.png">
+
+* Sign out
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/25.6-Sign%20out.png">
+
+* Character Styles
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/26.1-Character%20Styles.png">
+
+* Inputs
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/26.2-Inputs.png">
+
+* Colors
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/26.3-Colors.png">
+
+* Elements
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/26.4-Elements.png">
+
+* Icons
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/26.5-Icons.png">
+
+* Dessert Delivery App - Artboards AIO
+<img src="https://raw.githubusercontent.com/ndriqimlahu/dessert-delivery-app/main/Preview/27-Dessert%20Delivery%20App%20-%20Artboards%20AIO.png">
 
 
 <!-- COPYRIGHT -->
